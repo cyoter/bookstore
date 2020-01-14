@@ -1,6 +1,4 @@
-# Project 1
-
-Web Programming with Python and JavaScript
+# Bookstore
 https://www.youtube.com/watch?v=IECdKOow_kQ
 
 the app starts with a login page where you can sign up and log in.
@@ -26,5 +24,9 @@ import.py creates 3 tables-users, reviews and books. After books are created it 
 
 # ENV Variables
 $ export FLASK_APP = application.py # flask run
+
+
 $ export DATABASE_URL = Heroku Postgres DB URI
+
+
 $ export GOODREADS_KEY = Goodreads API Key. # More info: https://www.goodreads.com/api
